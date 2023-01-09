@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "email-validator": "^2.0.4",
-    "firebase-admin": "^8.0.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.7.0",
     "querystring": "^0.2.0",
     "request": "^2.88.2",
